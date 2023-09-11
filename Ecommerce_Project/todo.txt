@@ -1,0 +1,21 @@
+8558769997 
+
+DONE-create virtual env
+DONE-Install and setup
+DONE-Init db, superuser, test run
+DONE-core app for base pages
+DONE-app fro user profiles
+-app for products
+    -add category model
+-list out new products on front
+-product detail view
+-category view 
+-simple search
+-vendor detail-sign up, login, logout
+-create my account page
+-add product to category
+-view category
+-checkout
+-payment gateway
+-admin page for vendors
+-deploy project]
